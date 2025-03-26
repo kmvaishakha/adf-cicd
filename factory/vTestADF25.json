@@ -1,0 +1,9 @@
+{
+	"name": "vTestADF25",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8c0104e6-9a88-4114-abc8-266fd06edb5f",
+		"tenantId": "68cda466-5fe2-4c12-a3d4-5d0fc7722553"
+	}
+}
